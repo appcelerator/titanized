@@ -48,7 +48,7 @@
     "@wdio/spec-reporter": "^5.6.0",
     "@wdio/sync": "^5.6.0",
     "appium": "^1.11.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "eslint": "^5.14.0",
     "eslint-config-axway": "^4.2.2",
     "eslint-plugin-jasmine": "^2.10.1",
